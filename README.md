@@ -19,8 +19,8 @@ I'm passionate about programming and love building my own apps. My main interest
 ## Projects & Experience
 
 - 🌟 Worked on the **Litre of Light** project for 2 years connecting components and assisting with the codebase.
-- 🤖 Active member of a robotics community, working with Kinetic CodeABots, mentoring young students passionate about robotics.
-- 🌱 Currently on a Smart Hydro team developing an Arduino Hat for the relay box, implementing new irrigation systems and building the backend of an app for remote monitoring.
+- 🤖 Active member of a robotics community, working with **Kinetic CodeABots**, mentoring young students passionate about robotics.
+- 🌱 Currently on a **Smart Hydro** team developing an Arduino Hat for the relay box, implementing new irrigation systems and building the backend of an app for remote monitoring.
 
 ## Interests
 
