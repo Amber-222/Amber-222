@@ -1,4 +1,4 @@
-👋 Hi, I’m Amber
+# Hi, I’m Amber 👋
 
 I'm passionate about programming and love building my own apps. My main interests are in backend development and working with databases.
 
